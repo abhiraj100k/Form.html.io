@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Please Fill The Foam Carefully>
 <html>
 <head>
     <title>Simple Form</title>
