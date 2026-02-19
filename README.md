@@ -1,2 +1,24 @@
-# Form
-Form 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Form</title>
+</head>
+<body>
+
+<h2>Contact Form</h2>
+
+<form>
+    <label>Name:</label><br>
+    <input type="text" placeholder="Enter your name"><br><br>
+
+    <label>Email:</label><br>
+    <input type="email" placeholder="Enter your email"><br><br>
+
+    <label>Password:</label><br>
+    <input type="password" placeholder="Enter password"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
